@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\bin\Debug\ChallengeTwoInterface.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\bin\Debug\ChallengeTwoInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\bin\Debug\ChallengeTwoInterface.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\obj\Debug\ChallengeTwoInterface.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\obj\Debug\ChallengeTwoInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\obj\Debug\ChallengeTwoInterface.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\bin\Debug\ChallengeTwoClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\bin\Debug\ChallengeTwoClasses.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\obj\Debug\ChallengeTwoInterface.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoInterface\obj\Debug\ChallengeTwoInterface.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\ChallengeTwoTests.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\ChallengeTwoTests.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\ChallengeTwoClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\ChallengeTwoClasses.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.pdb

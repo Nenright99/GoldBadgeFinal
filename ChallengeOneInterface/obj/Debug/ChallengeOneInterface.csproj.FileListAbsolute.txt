@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\obj\Debug\ChallengeOneInterface.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\obj\Debug\ChallengeOneInterface.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\bin\Debug\ChallengeOneInterface.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\bin\Debug\ChallengeOneInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\bin\Debug\ChallengeOneInterface.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\bin\Debug\ChallengeOne.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\bin\Debug\ChallengeOne.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\obj\Debug\ChallengeOneInterface.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\obj\Debug\ChallengeOneInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOneInterface\obj\Debug\ChallengeOneInterface.pdb

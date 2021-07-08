@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\bin\Debug\ChallengeTwoClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\bin\Debug\ChallengeTwoClasses.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\obj\Debug\ChallengeTwoClasses.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\obj\Debug\ChallengeTwoClasses.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\obj\Debug\ChallengeTwoClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeTwoClasses\obj\Debug\ChallengeTwoClasses.pdb

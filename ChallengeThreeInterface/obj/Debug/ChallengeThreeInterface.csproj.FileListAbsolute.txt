@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\bin\Debug\ChallengeThreeInterface.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\bin\Debug\ChallengeThreeInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\bin\Debug\ChallengeThreeInterface.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\obj\Debug\ChallengeThreeInterface.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\obj\Debug\ChallengeThreeInterface.exe
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\obj\Debug\ChallengeThreeInterface.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\bin\Debug\ChallengeThreeClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\bin\Debug\ChallengeThreeClasses.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\obj\Debug\ChallengeThreeInterface.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeInterface\obj\Debug\ChallengeThreeInterface.csproj.CopyComplete

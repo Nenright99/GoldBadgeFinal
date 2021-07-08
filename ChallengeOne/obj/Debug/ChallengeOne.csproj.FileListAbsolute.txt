@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\bin\Debug\ChallengeOne.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\bin\Debug\ChallengeOne.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\obj\Debug\ChallengeOne.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\obj\Debug\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\obj\Debug\ChallengeOne.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeOne\obj\Debug\ChallengeOne.pdb

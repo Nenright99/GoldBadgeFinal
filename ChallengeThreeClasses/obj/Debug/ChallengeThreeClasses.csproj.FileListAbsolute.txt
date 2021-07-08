@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\bin\Debug\ChallengeThreeClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\bin\Debug\ChallengeThreeClasses.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\obj\Debug\ChallengeThreeClasses.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\obj\Debug\ChallengeThreeClasses.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\obj\Debug\ChallengeThreeClasses.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeFinal\ChallengeThreeClasses\obj\Debug\ChallengeThreeClasses.pdb
